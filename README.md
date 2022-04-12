@@ -7,7 +7,7 @@ A reference implementation of a reduction from imitation learning to reinforceme
 
 ## Getting Started
 
-The implementation was tested on Python 3.9. To run the code, you need to install packages from `requirements.txt`.
+The implementation was tested on Python 3.9. To run the code, you need to install packages from `requirements.txt`. Using this repository requires the `git-lfs` extension. See [here](https://git-lfs.github.com/) for installation instructions.
 
 To get started, simply follow these steps:
 
