@@ -10,13 +10,13 @@ Workflow](https://guides.github.com/introduction/flow/)
 Below is an Example.
 
 1.  Fork the project
-1.  Check out the `master` branch
+1.  Check out the `main` branch
 1.  Create a feature branch
 1.  Write code and tests for your change
 1.  From your branch, make a pull request against
-`spotify-research/il-by-rl/master`
+`spotify-research/il-by-rl/main`
 1.  Work with repo maintainers to get your change reviewed
-1.  Wait for your change to be pulled into `spotify-research/il-by-rl/master`
+1.  Wait for your change to be pulled into `spotify-research/il-by-rl/main`
 1.  Delete your feature branch
 
 ## Style
@@ -108,7 +108,7 @@ docs. Please file an
 
 By contributing your code, you agree to license your contribution under the
 terms of:
-https://github.com/spotify-research/il-by-rl/blob/master/LICENSE
+https://github.com/spotify-research/il-by-rl/blob/main/LICENSE
 
 # Code of Conduct
 
